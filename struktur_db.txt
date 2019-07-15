@@ -1,0 +1,11 @@
+Tugas dikumpulkan dalam bentuk zip folder yang berisi project masing-masing peserta berserta DDL database.
+Petunjuk:
+0. Gunakan File pertemuan kali ini yang telah kalian sempurnakan
+1. Buat Tabel dengan nama tabel "karyawan" dengan kolom
+ |     nama       |  type   |   value   |
+ | nomor_karyawan | varchar |    (10)   | (Primary Key)
+ | nama           | varchar |    (70)   |
+ | alamat         |  text   |           |
+ | jenis kelamin  |  enum   | ('L','P') |
+
+2. Gunakan Bootstrap untuk menghias Tampilan UI
